@@ -24,7 +24,6 @@ Welcome to my GitHub! I'm a soon-to-be Computer Science student at the **America
 ## 📫 Connect With Me
 - **YouTube**: [Study Notes with Hamdan](https://www.youtube.com/@studynoteswithhamdan)
 - **TikTok**: [@studynoteswithhamdan](https://www.tiktok.com/@studynoteswithhamdan)
-- **LinkedIn**: *(Coming Soon!)*
 - **GitHub**: Well… you’re already here! 😄
 
 ---
