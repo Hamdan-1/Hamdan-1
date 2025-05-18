@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm a soon-to-be Computer Science student at the **America
 - 🎓 **Content Creator** – Founder of [Study Notes with Hamdan](https://www.youtube.com/@studynoteswithhamdan) on **YouTube & TikTok**, where I break down complex physics concepts.
 - 🤖 **AI Visionary** – Dedicated to developing AI trained on **pure data**, integrating **Islamic values, UAE culture, history, mathematics, and coding** to ensure responsible and ethical usage.
 - 💻 **Tech Enthusiast** – Experimenting with Hackintosh setups, software development, and system optimization.
-- 🎯 **Scholar & Leader** – Applying for the **AUS Chancellor’s Scholarship** while actively participating in extracurriculars and community service.
 
 ## 💻 Projects & Interests
 - 🧠 **AI Research** – Exploring multimodal AI models, machine learning, and ethical AI development.
