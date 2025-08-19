@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring AI Innovator | Computer Science Student | Tech Enthusiast | Educator 🎓
 
-Welcome to my GitHub! I'm a soon-to-be Computer Science student at the **American University of Sharjah (AUS)**, passionate about AI, technology, and education. My dream? **Building the UAE's first responsible and multimodal AI agent**, revolutionizing how we interact with technology while upholding ethical standards. 🌍💡
+Welcome to my GitHub! I'm passionate about AI, technology, and education. My dream? **Building the UAE's first responsible and multimodal AI agent**, revolutionizing how we interact with technology while upholding ethical standards. 🌍💡
 
 ## 🔥 What I Do
 - 🎓 **Content Creator** – Founder of [Study Notes with Hamdan](https://www.youtube.com/@studynoteswithhamdan) on **YouTube & TikTok**, where I break down complex physics concepts.
